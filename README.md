@@ -91,7 +91,8 @@ streamlit run src/app.py
 chat-with-mysql/  
 ├── docs/  
 │   ├── mysql-chains.png  
-│   └── interface.png  
+│   └── Interface-snapshot-2.png
+│   └── interface-snapshot.png  
 ├── src/  
 │   └── app.py  
 ├── requirements.txt  
