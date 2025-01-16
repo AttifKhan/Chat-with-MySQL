@@ -79,8 +79,9 @@ streamlit run src/app.py
 *This diagram illustrates how the chatbot processes queries from input to database interaction.*  
 
 ### Interface Snapshot  
-![Chatbot Interface](./docs/interface-snapshot.png)  
-![Chatbot Interface](./docs/interface-snapshot-2.png) 
+![Chatbot Interface](./docs/interface-snapshot.png)
+
+![Chatbot Interface](./docs/Interface-snapshot-2.png) 
 *This snapshot displays the Streamlit interface where users interact with the chatbot.*
 
 ---
