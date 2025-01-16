@@ -80,6 +80,7 @@ streamlit run src/app.py
 
 ### Interface Snapshot  
 ![Chatbot Interface](./docs/interface-snapshot.png)  
+![Chatbot Interface](./docs/interface-snapshot-2.png) 
 *This snapshot displays the Streamlit interface where users interact with the chatbot.*
 
 ---
